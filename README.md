@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on : learning and discuss programming topic together
 - 📫 How to reach me : kenshih_keong@hotmail.com
 - 😄 Pronouns: Ken
-- ⚡ Fun fact: I also know C#
+- ⚡ Fun fact: I also know C#, Python, JavaScript, HTML and CSS
 
 <!---
 kenshih1989/kenshih1989 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
