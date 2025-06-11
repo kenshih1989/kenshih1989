@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Leng Keong
 - 👀 I’m interested in learning programming language
-- 🌱 I’m currently learning python and javascript
+- 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on : learning and discuss programming topic together
 - 📫 How to reach me : kenshih_keong@hotmail.com
 - 😄 Pronouns: Ken
